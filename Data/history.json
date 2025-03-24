@@ -1,0 +1,24 @@
+[
+    {
+        "role": "Web Development Intern",
+        "organisation": "YHills Edutech Pvt Ltd",
+        "startDate": "Dec, 2023",
+        "endDate": "Jan, 2024",
+        "experiences": [
+            "Developed responsive front-end interfaces.",
+            "Worked on debugging and back-end."
+        ],
+        "imageSrc": "history/google.png"
+    },
+    {
+        "role": "Python Full-Stack Developer Intern",
+        "organisation": "EduSkill",
+        "startDate": "Oct, 2024",
+        "endDate": "Dec, 2024",
+        "experiences": [
+            "Developed dynamic web applications.",
+            "Optimized front-end and back-end functionality."
+        ],
+        "imageSrc": "history/microsoft.png"
+    }
+]

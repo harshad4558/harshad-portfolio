@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Cryto Website",
+    "imageSrc": "Project/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["html", "css", "Javascript"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "Project/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Shadow Fight",
+    "imageSrc": "Project/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["html", "CSS", "Javascript"],
+   
+    "source": "https://github.com/harshad4558/shadow-fight-game.git"
+  }
+]
