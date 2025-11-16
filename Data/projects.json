@@ -1,19 +1,19 @@
 [
   {
-    "title": "Cryto Website",
+    "title": "Ai-Resume Builder",
     "imageSrc": "Project/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "AI-powered Resume Builder that generates personalized, ATS-optimized resumes using OpenAI. Users can create, preview, edit, and download resumes instantly in multiple formats.",
     "skills": ["html", "css", "Javascript"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://ai-resume-builder-frontend-fc7x.onrender.com/",
+    "source": "https://github.com/harshad4558/ai-resume-builder"
   },
   {
-    "title": "Project B",
+    "title": "sustainable Transpotation Hub",
     "imageSrc": "Project/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Eco-friendly commute web app showing live nearby stations with smart route suggestions. Designed using React, Tailwind CSS, and Leaflet.js.",
     "skills": ["React", "Express", "Node", "Sass"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/harshad4558/sth"
   },
   {
     "title": "Shadow Fight",
@@ -23,4 +23,5 @@
    
     "source": "https://github.com/harshad4558/shadow-fight-game.git"
   }
+
 ]
